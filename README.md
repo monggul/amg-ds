@@ -1,2 +1,3 @@
 # amg-ds
-test
+To run the file:
+python3 train.py
